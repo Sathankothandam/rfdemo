@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <img src={Logo} style={{height: "150px", width: "250px"}}/>
-    <h1>website under construction</h1>
+    <h1>website under reconstruction</h1>
     </div>
   );
 }
